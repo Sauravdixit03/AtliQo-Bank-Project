@@ -1,0 +1,18 @@
+# Forming control and test groups
+
+1.We have identified approximately 246 customers within the age group of 18 to 25. From this pool, we will select 100 customers for the initial campaign launch.
+
+2.The campaign is launched for 100 customers, as determined by the effective size calculation and by considering budgeting costs, and will run campaign for a duration of 2 months
+
+3.Got a conversion rate of ~40% ( implies 40 out of 100 customers in test group started using credit card)
+
+4.To maintain a similar sample size, a control group consisting of 40 customers will be created. Importantly, this control group will be completely exclusive of initial 100 customers used as test group.
+
+5.So now we have 40 customers in each of control and test groups
+
+
+# At the end of the 2-month campaign period (from 09-10-23 to 11-10-23), we obtained daily data showing the average transaction amounts made by the entire group of 40 customers in both the control and test groups using existing and newly launched credit cards respectively
+
+# The key performance indicator (KPI) for this AB test aims to enhance average transaction amounts facilitated by the new card
+
+so now we will perform hypothesis testing in both the group to get the required output
